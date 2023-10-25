@@ -1,0 +1,6 @@
+{
+	"MessageBackend": "discord",
+	"PictureInterval": 1,
+	"LogInterval": 300,
+	"Mode": "disable"
+}
